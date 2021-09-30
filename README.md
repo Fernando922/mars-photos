@@ -1,4 +1,4 @@
-MarsPhotos - Starter Code
+MarsPhotos
 ==================================
 
-Starter code for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
+Code for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
